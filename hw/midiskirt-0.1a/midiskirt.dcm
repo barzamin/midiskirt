@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C64-CassettePort
+D Board edge connector for the Cassette Port of the Commodore 64 computer.
+K C64 cassete-port Commodore Datasette
+F ~
+$ENDCMP
+#
+$CMP C64-Exp-Port
+D Board edge connector for the expansion port of the Commodore 64/128 computers.
+K C64, C128, Commodore, expansion port, cartrdige
+F https://www.c64-wiki.com/wiki/Expansion_Port
+$ENDCMP
+#
+#End Doc Library
