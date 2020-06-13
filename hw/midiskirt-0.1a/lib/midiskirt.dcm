@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP SW_DP3T
+D Switch, double pole triple throw, double pole 3 position switch, DP3T
+K switch dp3t ON-ON-ON
+F ~
+$ENDCMP
+#
 #End Doc Library
